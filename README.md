@@ -48,6 +48,7 @@ JavaScript中有很多奇妙的东西，归咎or归功于设计时候的迅速�
  - 参考资料：[写了 10 年 Javascript 未必全了解的连续赋值运算][20]
 ###call和apply的第一个参数是null/undefined是什么意思？
  - 参考资料：[call和apply的第一个参数为null/undefined时][21]
+
 ###querySelectorAll 方法相比 getElementsBy 系列方法有什么区别？
  - 知乎问答：[高票回答][22]
  
