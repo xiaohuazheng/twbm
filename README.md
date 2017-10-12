@@ -9,8 +9,20 @@
 5. [JavaScript-有意思的30题-题目][5]
 
 
+# 勘误
+
+如发现错误的地方，可以在相应的 issues 帮我斧正，或提出问题，一起讨论。
+
+如果喜欢或者有所启发，欢迎 star，对我是一种鼓励。
+
+# License
+
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][6]进行许可。
+
+
   [1]: https://github.com/xiaohuazheng/twbm/issues/1
   [2]: https://github.com/xiaohuazheng/twbm/issues/2
   [3]: https://github.com/xiaohuazheng/twbm/issues/3
   [4]: https://github.com/xiaohuazheng/twbm/issues/4
   [5]: https://github.com/xiaohuazheng/twbm/issues/5
+  [6]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
