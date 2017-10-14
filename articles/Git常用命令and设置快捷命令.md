@@ -2,18 +2,41 @@
 
 ### 常见命令
 
-    查看分支：git branch  （可以配置简写命令，提升工作效率，比如gb => git branch）
+
+    初始化新版本库：git init
+    全局设置：git config --global user.name "xzavier"  git config --global user.email "xzavier.xxx.com"
+    克隆版本库：git clone "url"
+    查看分支：git branch
     创建分支：git branch branch_name
     切换分支：git checkout branch_name
     创建+切换分支：git checkout -b branch_name
     合并某分支到当前分支：git merge branch_name
-    删除分支：git branch -d branch_name   (强制删除 git branch -D branch_name)
-    删除远程分支： git push origin : branch_name
-    拉去代码：git pull origin branch_name
-    提交代码：git push origin branch_name
-    查看更改：git status
+    重命名分支：git branch -m branch_name branch_new_name //不会覆盖已经存在的分支
+    重命名分支：git branch -M branch_name branch_new_name //会覆盖已经存在的分支
+    删除分支：git branch -d branch_name 
+    强制删除分支： git branch -D branch_name
+    删除远程分支： git push origin : branch_name 
+    拉取代码：git pull origin branch_name
+    查看更改：git status 
     查看更改细节： git diff file_name
+    查看谁修改过代码： git blame filename
+    回到上次修改： git reset --hard
+    添加单个文件：git add filename.js 
+    添加所有js文件：git add *.js
+    添加所有文件：git add .
+    提交添加的文件：git commit -m "your description about this branch"
+    提交单个文件：git commit -m "your description about it" filename.js
+    push分支：git push origin your_branch_name
+    备份当前分支内容：git stash //在后面再讲讲这个
+    查看历史记录：git log
+    创建标签：git tag 1.0.0  //标签无法重命名
+    显示标签列表：git tag 
+    切出标签：git checkout 1.0.0
+    删除标签：git tag -d 1.0.0
+    查看git远程网址：git remote -v
+    更改git远程网址：git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git  ; git remote set-url origin git@github.com:USERNAME/OTHERREPOSITORY.git
 
+Git远程网址参考：[Changing a remote's URL][2]
 
 ### 终端设置Git快捷命令
 
@@ -99,3 +122,4 @@
 
 
   [1]: img/git_commonds.png
+  [2]: https://help.github.com/articles/changing-a-remote-s-url/
