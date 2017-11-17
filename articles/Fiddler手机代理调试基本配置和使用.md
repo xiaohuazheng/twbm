@@ -84,14 +84,14 @@ Fiddler是一个http协议调试代理工具，它能够记录并检查所有你
 
   [1]: img/fiddler/1.png
   [2]: img/fiddler/2.png
-  [3]: img/fiddler/3.png
-  [4]: img/fiddler/4.png
-  [5]: img/fiddler/5.png
-  [6]: img/fiddler/6.png
-  [7]: img/fiddler/7.png
-  [8]: img/fiddler/8.png
-  [9]: img/fiddler/9.png
+  [3]: img/fiddler/3.jpg
+  [4]: img/fiddler/4.jpg
+  [5]: img/fiddler/5.jpg
+  [6]: img/fiddler/6.jpg
+  [7]: img/fiddler/7.jpg
+  [8]: img/fiddler/8.jpg
+  [9]: img/fiddler/9.jpg
   [10]: img/fiddler/10.png
-  [11]: img/fiddler/11.png
+  [11]: img/fiddler/11.jpg
 
 
