@@ -131,5 +131,6 @@ IE 有个 security="restricted" 来做限制，是禁止掉js，显然不符合�
 好，逻辑还清晰，但是，我还不知道，反正我目的达到了，而且，再做下去，就是个死循环了，都是程序猿，何苦呢，而且，我没做坏事儿。
 
 
-   [1] http://seclab.stanford.edu/websec/framebusting/framebust.pdf
-   [2] https://blog.codinghorror.com/we-done-been-framed/
+  [1]: http://seclab.stanford.edu/websec/framebusting/framebust.pdf
+  [2]: https://blog.codinghorror.com/we-done-been-framed/
+
