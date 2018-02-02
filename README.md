@@ -11,6 +11,8 @@
 7. [Iframe见招拆招攻防那些事儿][7]
 8. [Audio自动播放Safari采坑][8]
 9. [Developer随笔][9]
+10. [avascipt六题-加深对基础核心特性的理解][10]
+11. [前端异常监控上报][11]
 
 
 # 勘误
@@ -21,7 +23,7 @@
 
 # License
 
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][10]进行许可。
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][12]进行许可。
 
 
   [1]: https://github.com/xiaohuazheng/twbm/issues/1
@@ -33,4 +35,6 @@
   [7]: https://github.com/xiaohuazheng/twbm/issues/8
   [8]: https://github.com/xiaohuazheng/twbm/issues/9
   [9]: https://github.com/xiaohuazheng/twbm/issues/10
-  [10]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
+  [10]: https://github.com/xiaohuazheng/twbm/issues/11
+  [11]: https://github.com/xiaohuazheng/twbm/issues/12
+  [12]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
