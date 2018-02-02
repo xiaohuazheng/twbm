@@ -10,6 +10,7 @@
 6. [Fiddler手机代理调试基本配置和使用][6]
 7. [Iframe见招拆招攻防那些事儿][7]
 8. [Audio自动播放Safari采坑][8]
+9. [Developer随笔][9]
 
 
 # 勘误
@@ -20,7 +21,7 @@
 
 # License
 
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][9]进行许可。
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][10]进行许可。
 
 
   [1]: https://github.com/xiaohuazheng/twbm/issues/1
@@ -31,4 +32,5 @@
   [6]: https://github.com/xiaohuazheng/twbm/issues/7
   [7]: https://github.com/xiaohuazheng/twbm/issues/8
   [8]: https://github.com/xiaohuazheng/twbm/issues/9
-  [9]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
+  [9]: https://github.com/xiaohuazheng/twbm/issues/10
+  [10]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
