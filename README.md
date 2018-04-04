@@ -13,6 +13,7 @@
 9. [Developer随笔][9]
 10. [avascipt六题-加深对基础核心特性的理解][10]
 11. [前端异常监控上报][11]
+12. [JavaScript富文本编辑器][12]
 
 
 # 勘误
@@ -23,7 +24,7 @@
 
 # License
 
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][12]进行许可。
+所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议][13]进行许可。
 
 
   [1]: https://github.com/xiaohuazheng/twbm/issues/1
@@ -37,4 +38,5 @@
   [9]: https://github.com/xiaohuazheng/twbm/issues/10
   [10]: https://github.com/xiaohuazheng/twbm/issues/11
   [11]: https://github.com/xiaohuazheng/twbm/issues/12
-  [12]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
+  [12]: https://github.com/xiaohuazheng/twbm/issues/13
+  [13]: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
